@@ -1,18 +1,19 @@
 **Micro curso de Python en 1 hora**
 
-Accede al post en mi sitio [(https://ikerbit.com/micro-curso-python/)](https://ikerbit.com/micro-curso-python/).
+Accede al post en mi sitio [(https://ikerbit.com/micro-curso-python/)]([https://ikerbit.com/micro-curso-python/].
 
 **Python en 1 Hora: Una Introducción Exprés**
-Te damos la bienvenida a «Python en una Hora,» acceso rápido al emocionante mundo de la programación en Python. Este curso ultrarrápido está diseñado para tener una visión general de los conceptos básicos de Python. El objetivo es que puedas entender y reutilizar cada parte del código en 1 hora.
+Te damos la bienvenida a «Python en una Hora,» acceso rápido al emocionante mundo de la programación en Python. Esta gúia ultrarrápido está diseñado para tener una visión general de los conceptos básicos de Python. El objetivo es que puedas entender y reutilizar cada parte del código en 1 hora.
 
-Características Destacadas del Curso:
+Características Destacadas:
 
 Velocidad y Efectividad: En tan solo una hora, absorberás conceptos clave que te permitirán comprender la esencia de Python y su poderosa sintaxis.
-Enfoque Centrado: Este curso exprés se concentra en los aspectos fundamentales para ofrecer una experiencia de aprendizaje concentrada y efectiva.
+Enfoque Centrado: Esta gúia exprés se concentra en los aspectos fundamentales para ofrecer una experiencia de aprendizaje concentrada y efectiva.
 Guía de Referencia Instantánea: Diseñado para ser tu guía de referencia rápida, Python en una Hora un recurso para conceptos y comandos fundamentales.
 Aprendizaje Activo: Aprovecha los ejemplos prácticos para una experiencia de aprendizaje activa y práctica en tiempo real.
 
-Temario en el que se basa el Curso:
+Temario en el que se basa:
+
 1. Introducción y Configuración:
 
    – Resumen de Python
@@ -125,13 +126,9 @@ Temario en el que se basa el Curso:
 
     – Uso de Flask para aplicaciones web
 
-Público Objetivo:
-Diseñado para aquellos que buscan una toma de contacto con Python de manera rápida y efectiva en una hora.
 
-Ideal para aquellos con agendas ajustadas que desean obtener una toma rápida y general de Python.
-Entendimiento Inmediato: Captura los aspectos clave de Python en una hora.
 Guía de Consulta Ágil: Una herramienta de referencia instantánea para recordar y revisar conceptos esenciales.
-*Nota: Python en una Hora se centra en una entrega rápida y efectiva y está diseñado para proporcionar un vistazo general al lenguaje Python en un período de tiempo limitado.*
+*Nota: Está diseñada para proporcionar un vistazo general al lenguaje Python en un período de tiempo limitado.*
 
 
 **Pre-requisitos**
