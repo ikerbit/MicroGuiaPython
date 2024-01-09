@@ -1,4 +1,4 @@
-**Micro curso de Python en 1 hora**
+**Guía de Python en 1 hora**
 
 Accede al post en mi sitio [([https://ikerbit.com/guia-python-en-una-hora](https://ikerbit.com/guia-python-en-una-hora/)/)].
 
