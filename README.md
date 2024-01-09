@@ -1,6 +1,6 @@
 **Micro curso de Python en 1 hora**
 
-Accede al post en mi sitio [(https://ikerbit.com/micro-curso-python/)]([https://ikerbit.com/micro-curso-python/].
+Accede al post en mi sitio [([https://ikerbit.com/guia-python-en-una-hora](https://ikerbit.com/guia-python-en-una-hora/)/)].
 
 **Python en 1 Hora: Una Introducción Exprés**
 Te damos la bienvenida a «Python en una Hora,» acceso rápido al emocionante mundo de la programación en Python. Esta gúia ultrarrápido está diseñado para tener una visión general de los conceptos básicos de Python. El objetivo es que puedas entender y reutilizar cada parte del código en 1 hora.
